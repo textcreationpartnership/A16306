@@ -705,18 +705,21 @@ Chronologer, and vertuous Citizen M. <hi>Iohn Stowe;</hi>
 The present figure with the same words as here
 they stand, is a copy of that which an old imper<g ref="char:EOLhyphen"/>fect
 larger volume at the Office of Armes contai<g ref="char:EOLhyphen"/>neth.</p>
-               <figure>
-                  <head>
-                     <gap reason="illegible: page cropped" resp="#TECH" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> BADGES
+               <p>
+                  <pb facs="tcp:6612:13"/>
+                  <figure>
+                     <head>
+                        <gap reason="illegible: page cropped" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> BADGES
 LONDON</head>
-                  <head>OF THE CITIE
+                     <head>OF THE CITIE
 OF LONDON
 THE LORD
 FITZ-WALTER
 BANNERER</head>
-               </figure>
+                  </figure>
+               </p>
                <p>
                   <pb n="7" facs="tcp:6612:13"/>
 There needs no greater demonstration of the
